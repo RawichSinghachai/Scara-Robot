@@ -75,4 +75,4 @@ The implementation involves setting up the hardware, writing the control scripts
 <p align="center"> <img src="./Images/simulation.gif" alt="SCARA Robot Simulation"> </p>
 
 ## Demo 
-<p align="center"> <img src="./Images/demo.gif" alt="SCARA Robot Demo"> </p>
+<p align="center"> <img src="./Images/demo.gif" alt="SCARA Robot Demo" width="400"> </p>
