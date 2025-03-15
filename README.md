@@ -1,7 +1,7 @@
 # SCARA Robot Project
 
 <p align="center">
-  <img src="./Images/ScaraRobot.jpg" alt="Scara Robot" width="400">
+  <img src="./Images/ScaraRobot.JPG" alt="Scara Robot" width="400">
 </p>
 
 ## 📌 Project Overview
