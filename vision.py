@@ -55,7 +55,7 @@ def main():
         if clicked_pos:
             x, y = clicked_pos
             pixel_text = f"Pos: ({x}, {y})"
-            cv2.circle(frame, (x, y), radius=5, color=(0, 0, 255), thickness=-1)
+            cv2.circle(frame, (x, y), radius=5, color=(0, 0, 255), thickness=1)
             cv2.putText(frame, pixel_text, (x + 10, y - 10),
                         cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 255), 1, cv2.LINE_AA)
 
